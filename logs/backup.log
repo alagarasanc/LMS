@@ -1,0 +1,12 @@
+pg_dump postgres://_2e326a6e9a31c471:**********@127.0.0.1:5432/_2e326a6e9a31c471   | /usr/bin/gzip >> ./library.test/private/backups/20220913_180004-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-09-13 18:00:05.727995
+Config  : ./library.test/private/backups/20220913_180004-library_test-site_config_backup.json 95.0B
+Database: ./library.test/private/backups/20220913_180004-library_test-database.sql.gz         217.3KiB
+Backup for Site library.test has been successfully completed
+pg_dump postgres://_2e326a6e9a31c471:**********@127.0.0.1:5432/_2e326a6e9a31c471   | /usr/bin/gzip >> ./library.test/private/backups/20220914_120004-library_test-database.sql.gz
+
+Backup Summary for library.test at 2022-09-14 12:00:07.322236
+Config  : ./library.test/private/backups/20220914_120004-library_test-site_config_backup.json 95.0B
+Database: ./library.test/private/backups/20220914_120004-library_test-database.sql.gz         230.3KiB
+Backup for Site library.test has been successfully completed
